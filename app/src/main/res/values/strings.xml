@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Calculy</string>
+
+
+    <string name="portrait">portrait</string>
+    <string name="landscape">Landscape</string>
+</resources>
